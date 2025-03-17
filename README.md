@@ -16,7 +16,11 @@ Antes de iniciar, certifique-se de ter:
 - Conhecimento básico em **chatbots**
 - Acesso à internet e a um computador.
 
-## 
+### Criando um Copilot baseado em modelo
+Escolha o modelo de Viagens:
+![Imagem do modelo de Viagens](captura-de-tela-2.png)
 
-## Link do Projeto
-[Acesse o projeto aqui](#)
+### Criando um Copilot em branco
+![Imagem da criação de um Copilot em branco](captura-de-tela-1.png)
+
+
