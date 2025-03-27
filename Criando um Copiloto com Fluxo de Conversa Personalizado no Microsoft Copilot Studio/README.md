@@ -1,7 +1,7 @@
-# Criando seu primeiro Copiloto no Microsoft Copilot Studio
+# Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
 
 ## Descrição
-Este projeto tem como objetivo da criação de um Copiloto utilizando o **Microsoft Copilot Studio**.
+Este projeto tem como objetivo da criação de um Copiloto com fluxo de conversa personalizado utilizando o **Microsoft Copilot Studio**.
 
 ## Conteúdo Programático
 - ✅ Apresentação do desafio
