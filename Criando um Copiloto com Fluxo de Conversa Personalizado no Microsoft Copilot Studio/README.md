@@ -23,8 +23,4 @@ Antes de iniciar, certifique-se de ter:
 ![Imagem do passo 2](captura-de-tela-2.png)
 
 ### Personalizar uma mensagem de erro de tópico
-<<<<<<< HEAD
 ![Imagem do passo 3](captura-de-tela-3.png)
-=======
-![Imagem do passo 3](captura-de-tela-3.png)
->>>>>>> 8ef980853358ea20bd6431133f54f06005f866a9
